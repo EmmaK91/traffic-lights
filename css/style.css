@@ -1,0 +1,24 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 10px solid darkred;
+    margin: 20px;
+}
+
+.boxY{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 10px solid orange;
+    margin: 20px;
+}
+
+.boxA{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: 10px solid darkgreen;
+    margin: 20px;
+
+}
